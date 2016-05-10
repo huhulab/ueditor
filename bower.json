@@ -1,6 +1,7 @@
 {
 	"name": "ueditor_huhu",
 	"description": "Adjust the ueditor post image way",
+	"version": "0.0.1",
 	"author": "cafedeflore",
 	"license": "MIT",
 	"homepage": "https://github.com/huhulab/ueditor",
