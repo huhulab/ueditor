@@ -1,0 +1,28 @@
+{
+    "name": "ueditor_huhu",
+    "title": "ueditor_huhu",
+    "description": "UEditor富文本web编辑器_huhu",
+    "version": "1.4.3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huhulab/ueditor.git"
+    },
+    "keywords": [
+        "ueditor",
+        "web editor",
+        "javascript"
+    ],
+    "dependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-concat": "~0.3.0",
+        "grunt-contrib-cssmin": "~0.6.0",
+        "grunt-closurecompiler": "~0.9.9",
+        "grunt-contrib-copy": "~0.4.0",
+        "grunt-transcoding": "~0.1.1",
+        "grunt-text-replace": "~0.3.9",
+        "grunt-contrib-clean": "~0.5.0"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1"
+    }
+}
