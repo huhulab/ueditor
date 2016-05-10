@@ -1,18 +1,13 @@
 {
-    "name": "ueditor_huhu",
-    "title": "ueditor_huhu",
-    "description": "UEditor富文本web编辑器_huhu",
-    "version": "1.4.3",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/huhulab/ueditor.git"
-    },
-    "keywords": [
-        "ueditor",
-        "web editor",
-        "javascript"
-    ],
-    "dependencies": {
+	"name": "ueditor_huhu",
+	"description": "Adjust the ueditor post image way",
+	"author": "cafedeflore",
+	"license": "MIT",
+	"homepage": "https://github.com/huhulab/ueditor",
+	"main": "./ueditor.all.js",
+	"ignore": [
+	],
+	"dependencies": {
         "grunt": "~0.4.1",
         "grunt-contrib-concat": "~0.3.0",
         "grunt-contrib-cssmin": "~0.6.0",
@@ -24,5 +19,9 @@
     },
     "devDependencies": {
         "grunt": "~0.4.1"
-    }
+    },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/huhulab/ueditor.git"
+	}
 }
